@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug",
+            "program": "${workspaceFolder}/build/bin/basic_usage",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "terminal": "integrated",
+        }
+    ]
+}

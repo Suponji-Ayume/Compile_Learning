@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libmathx.a CMakeFiles/mathx.dir/src/algebra/matrix.c.o CMakeFiles/mathx.dir/src/algebra/vector.c.o CMakeFiles/mathx.dir/src/geometry/line.c.o CMakeFiles/mathx.dir/src/geometry/point.c.o
+/usr/bin/ranlib ../../lib/libmathx.a
