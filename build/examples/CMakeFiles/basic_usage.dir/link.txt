@@ -1,1 +1,0 @@
-/usr/bin/clang -O0 -g CMakeFiles/basic_usage.dir/basic_usage.c.o -o ../bin/basic_usage  ../lib/libmathx.a ../lib/liblogger.a -lm 
